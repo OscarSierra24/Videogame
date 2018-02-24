@@ -5,15 +5,15 @@ using UnityEngine;
 public class bomba : MonoBehaviour {
 
 	private Transform t;
-	private GameObject principal;
+	public GameObject personajePrincipal;
 	private int speed;
 	private Vector2 toPosition;
 
 
 	void Start () {
 		speed=2;
-		principal = GameObject.Find ("enemigo");
-		t =principal.transform;
+		personajePrincipal = GameObject.Find ("enemigo");
+		t =personajePrincipal.transform;
 		toPosition = t.position;
 		StartCoroutine (matar());
 
