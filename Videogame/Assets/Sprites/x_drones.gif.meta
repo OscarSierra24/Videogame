@@ -1,6 +1,10 @@
 fileFormatVersion: 2
 guid: 18538beaaa33b574bb1fa7a2e6d30d5b
+<<<<<<< HEAD
 timeCreated: 1519494742
+=======
+timeCreated: 1519503651
+>>>>>>> diego
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -82,6 +86,7 @@ TextureImporter:
   - buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
+<<<<<<< HEAD
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
@@ -132,6 +137,8 @@ TextureImporter:
   - buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
+=======
+>>>>>>> diego
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
@@ -150,8 +157,13 @@ TextureImporter:
         y: 93
         width: 31
         height: 34
+<<<<<<< HEAD
       alignment: 7
       pivot: {x: 0.5, y: 0}
+=======
+      alignment: 0
+      pivot: {x: 0, y: 0}
+>>>>>>> diego
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -164,8 +176,13 @@ TextureImporter:
         y: 92
         width: 35
         height: 33
+<<<<<<< HEAD
       alignment: 7
       pivot: {x: 0.5, y: 0}
+=======
+      alignment: 0
+      pivot: {x: 0, y: 0}
+>>>>>>> diego
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -178,8 +195,13 @@ TextureImporter:
         y: 92
         width: 37
         height: 33
+<<<<<<< HEAD
       alignment: 7
       pivot: {x: 0.5, y: 0}
+=======
+      alignment: 0
+      pivot: {x: 0, y: 0}
+>>>>>>> diego
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -192,8 +214,13 @@ TextureImporter:
         y: 92
         width: 36
         height: 33
+<<<<<<< HEAD
       alignment: 7
       pivot: {x: 0.5, y: 0}
+=======
+      alignment: 0
+      pivot: {x: 0, y: 0}
+>>>>>>> diego
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -206,8 +233,13 @@ TextureImporter:
         y: 110
         width: 8
         height: 8
+<<<<<<< HEAD
       alignment: 7
       pivot: {x: 0.5, y: 0}
+=======
+      alignment: 0
+      pivot: {x: 0, y: 0}
+>>>>>>> diego
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -220,8 +252,13 @@ TextureImporter:
         y: 110
         width: 8
         height: 8
+<<<<<<< HEAD
       alignment: 7
       pivot: {x: 0.5, y: 0}
+=======
+      alignment: 0
+      pivot: {x: 0, y: 0}
+>>>>>>> diego
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -234,8 +271,13 @@ TextureImporter:
         y: 110
         width: 8
         height: 8
+<<<<<<< HEAD
       alignment: 7
       pivot: {x: 0.5, y: 0}
+=======
+      alignment: 0
+      pivot: {x: 0, y: 0}
+>>>>>>> diego
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -248,8 +290,13 @@ TextureImporter:
         y: 44
         width: 26
         height: 39
+<<<<<<< HEAD
       alignment: 7
       pivot: {x: 0.5, y: 0}
+=======
+      alignment: 0
+      pivot: {x: 0, y: 0}
+>>>>>>> diego
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -262,8 +309,13 @@ TextureImporter:
         y: 42
         width: 20
         height: 39
+<<<<<<< HEAD
       alignment: 7
       pivot: {x: 0.5, y: 0}
+=======
+      alignment: 0
+      pivot: {x: 0, y: 0}
+>>>>>>> diego
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -276,8 +328,13 @@ TextureImporter:
         y: 0
         width: 28
         height: 35
+<<<<<<< HEAD
       alignment: 7
       pivot: {x: 0.5, y: 0}
+=======
+      alignment: 0
+      pivot: {x: 0, y: 0}
+>>>>>>> diego
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -290,8 +347,13 @@ TextureImporter:
         y: 0
         width: 35
         height: 33
+<<<<<<< HEAD
       alignment: 7
       pivot: {x: 0.5, y: 0}
+=======
+      alignment: 0
+      pivot: {x: 0, y: 0}
+>>>>>>> diego
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -304,8 +366,13 @@ TextureImporter:
         y: 0
         width: 28
         height: 34
+<<<<<<< HEAD
       alignment: 7
       pivot: {x: 0.5, y: 0}
+=======
+      alignment: 0
+      pivot: {x: 0, y: 0}
+>>>>>>> diego
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -318,12 +385,18 @@ TextureImporter:
         y: 0
         width: 31
         height: 34
+<<<<<<< HEAD
       alignment: 7
       pivot: {x: 0.5, y: 0}
+=======
+      alignment: 0
+      pivot: {x: 0, y: 0}
+>>>>>>> diego
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
+<<<<<<< HEAD
     outline:
     - - {x: -95.5, y: -26.5}
       - {x: -99.5, y: -32.5}
@@ -512,6 +585,10 @@ TextureImporter:
       - {x: 67.5, y: 46.5}
       - {x: 71.5, y: 44.5}
       - {x: 99.5, y: 44.5}
+=======
+    outline: []
+    physicsShape: []
+>>>>>>> diego
   spritePackingTag: 
   userData: 
   assetBundleName: 
