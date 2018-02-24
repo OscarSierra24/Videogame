@@ -1,17 +1,445 @@
 fileFormatVersion: 2
 guid: 08829de63f74f5944bc586d826350b84
-timeCreated: 1519494069
+timeCreated: 1519495716
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: biomenace_complete_0
+    21300002: biomenace_complete_1
+    21300004: biomenace_complete_2
+    21300006: biomenace_complete_3
+    21300008: biomenace_complete_4
+    21300010: biomenace_complete_5
+    21300012: biomenace_complete_6
+    21300014: biomenace_complete_7
+    21300016: biomenace_complete_8
+    21300018: biomenace_complete_9
+    21300020: biomenace_complete_10
+    21300022: biomenace_complete_11
+    21300024: biomenace_complete_12
+    21300026: biomenace_complete_13
+    21300028: biomenace_complete_14
+    21300030: biomenace_complete_15
+    21300032: biomenace_complete_16
+    21300034: biomenace_complete_17
+    21300036: biomenace_complete_18
+    21300038: biomenace_complete_19
+    21300040: biomenace_complete_20
+    21300042: biomenace_complete_21
+    21300044: biomenace_complete_22
+    21300046: biomenace_complete_23
+    21300048: biomenace_complete_24
+    21300050: biomenace_complete_25
+    21300052: biomenace_complete_26
+    21300054: biomenace_complete_27
+    21300056: biomenace_complete_28
+    21300058: biomenace_complete_29
+    21300060: biomenace_complete_30
+    21300062: biomenace_complete_31
+    21300064: biomenace_complete_32
+    21300066: biomenace_complete_33
+    21300068: biomenace_complete_34
+    21300070: biomenace_complete_35
+    21300072: biomenace_complete_36
+    21300074: biomenace_complete_37
+    21300076: biomenace_complete_38
+    21300078: biomenace_complete_39
+    21300080: biomenace_complete_40
+    21300082: biomenace_complete_41
+    21300084: biomenace_complete_42
+    21300086: biomenace_complete_43
+    21300088: biomenace_complete_44
+    21300090: biomenace_complete_45
+    21300092: biomenace_complete_46
+    21300094: biomenace_complete_47
+    21300096: biomenace_complete_48
+    21300098: biomenace_complete_49
+    21300100: biomenace_complete_50
+    21300102: biomenace_complete_51
+    21300104: biomenace_complete_52
+    21300106: biomenace_complete_53
+    21300108: biomenace_complete_54
+    21300110: biomenace_complete_55
+    21300112: biomenace_complete_56
+    21300114: biomenace_complete_57
+    21300116: biomenace_complete_58
+    21300118: biomenace_complete_59
+    21300120: biomenace_complete_60
+    21300122: biomenace_complete_61
+    21300124: biomenace_complete_62
+    21300126: biomenace_complete_63
+    21300128: biomenace_complete_64
+    21300130: biomenace_complete_65
+    21300132: biomenace_complete_66
+    21300134: biomenace_complete_67
+    21300136: biomenace_complete_68
+    21300138: biomenace_complete_69
+    21300140: biomenace_complete_70
+    21300142: biomenace_complete_71
+    21300144: biomenace_complete_72
+    21300146: biomenace_complete_73
+    21300148: biomenace_complete_74
+    21300150: biomenace_complete_75
+    21300152: biomenace_complete_76
+    21300154: biomenace_complete_77
+    21300156: biomenace_complete_78
+    21300158: biomenace_complete_79
+    21300160: biomenace_complete_80
+    21300162: biomenace_complete_81
+    21300164: biomenace_complete_82
+    21300166: biomenace_complete_83
+    21300168: biomenace_complete_84
+    21300170: biomenace_complete_85
+    21300172: biomenace_complete_86
+    21300174: biomenace_complete_87
+    21300176: biomenace_complete_88
+    21300178: biomenace_complete_89
+    21300180: biomenace_complete_90
+    21300182: biomenace_complete_91
+    21300184: biomenace_complete_92
+    21300186: biomenace_complete_93
+    21300188: biomenace_complete_94
+    21300190: biomenace_complete_95
+    21300192: biomenace_complete_96
+    21300194: biomenace_complete_97
+    21300196: biomenace_complete_98
+    21300198: biomenace_complete_99
+    21300200: biomenace_complete_100
+    21300202: biomenace_complete_101
+    21300204: biomenace_complete_102
+    21300206: biomenace_complete_103
+    21300208: biomenace_complete_104
+    21300210: biomenace_complete_105
+    21300212: biomenace_complete_106
+    21300214: biomenace_complete_107
+    21300216: biomenace_complete_108
+    21300218: biomenace_complete_109
+    21300220: biomenace_complete_110
+    21300222: biomenace_complete_111
+    21300224: biomenace_complete_112
+    21300226: biomenace_complete_113
+    21300228: biomenace_complete_114
+    21300230: biomenace_complete_115
+    21300232: biomenace_complete_116
+    21300234: biomenace_complete_117
+    21300236: biomenace_complete_118
+    21300238: biomenace_complete_119
+    21300240: biomenace_complete_120
+    21300242: biomenace_complete_121
+    21300244: biomenace_complete_122
+    21300246: biomenace_complete_123
+    21300248: biomenace_complete_124
+    21300250: biomenace_complete_125
+    21300252: biomenace_complete_126
+    21300254: biomenace_complete_127
+    21300256: biomenace_complete_128
+    21300258: biomenace_complete_129
+    21300260: biomenace_complete_130
+    21300262: biomenace_complete_131
+    21300264: biomenace_complete_132
+    21300266: biomenace_complete_133
+    21300268: biomenace_complete_134
+    21300270: biomenace_complete_135
+    21300272: biomenace_complete_136
+    21300274: biomenace_complete_137
+    21300276: biomenace_complete_138
+    21300278: biomenace_complete_139
+    21300280: biomenace_complete_140
+    21300282: biomenace_complete_141
+    21300284: biomenace_complete_142
+    21300286: biomenace_complete_143
+    21300288: biomenace_complete_144
+    21300290: biomenace_complete_145
+    21300292: biomenace_complete_146
+    21300294: biomenace_complete_147
+    21300296: biomenace_complete_148
+    21300298: biomenace_complete_149
+    21300300: biomenace_complete_150
+    21300302: biomenace_complete_151
+    21300304: biomenace_complete_152
+    21300306: biomenace_complete_153
+    21300308: biomenace_complete_154
+    21300310: biomenace_complete_155
+    21300312: biomenace_complete_156
+    21300314: biomenace_complete_157
+    21300316: biomenace_complete_158
+    21300318: biomenace_complete_159
+    21300320: biomenace_complete_160
+    21300322: biomenace_complete_161
+    21300324: biomenace_complete_162
+    21300326: biomenace_complete_163
+    21300328: biomenace_complete_164
+    21300330: biomenace_complete_165
+    21300332: biomenace_complete_166
+    21300334: biomenace_complete_167
+    21300336: biomenace_complete_168
+    21300338: biomenace_complete_169
+    21300340: biomenace_complete_170
+    21300342: biomenace_complete_171
+    21300344: biomenace_complete_172
+    21300346: biomenace_complete_173
+    21300348: biomenace_complete_174
+    21300350: biomenace_complete_175
+    21300352: biomenace_complete_176
+    21300354: biomenace_complete_177
+    21300356: biomenace_complete_178
+    21300358: biomenace_complete_179
+    21300360: biomenace_complete_180
+    21300362: biomenace_complete_181
+    21300364: biomenace_complete_182
+    21300366: biomenace_complete_183
+    21300368: biomenace_complete_184
+    21300370: biomenace_complete_185
+    21300372: biomenace_complete_186
+    21300374: biomenace_complete_187
+    21300376: biomenace_complete_188
+    21300378: biomenace_complete_189
+    21300380: biomenace_complete_190
+    21300382: biomenace_complete_191
+    21300384: biomenace_complete_192
+    21300386: biomenace_complete_193
+    21300388: biomenace_complete_194
+    21300390: biomenace_complete_195
+    21300392: biomenace_complete_196
+    21300394: biomenace_complete_197
+    21300396: biomenace_complete_198
+    21300398: biomenace_complete_199
+    21300400: biomenace_complete_200
+    21300402: biomenace_complete_201
+    21300404: biomenace_complete_202
+    21300406: biomenace_complete_203
+    21300408: biomenace_complete_204
+    21300410: biomenace_complete_205
+    21300412: biomenace_complete_206
+    21300414: biomenace_complete_207
+    21300416: biomenace_complete_208
+    21300418: biomenace_complete_209
+    21300420: biomenace_complete_210
+    21300422: biomenace_complete_211
+    21300424: biomenace_complete_212
+    21300426: biomenace_complete_213
+    21300428: biomenace_complete_214
+    21300430: biomenace_complete_215
+    21300432: biomenace_complete_216
+    21300434: biomenace_complete_217
+    21300436: biomenace_complete_218
+    21300438: biomenace_complete_219
+    21300440: biomenace_complete_220
+    21300442: biomenace_complete_221
+    21300444: biomenace_complete_222
+    21300446: biomenace_complete_223
+    21300448: biomenace_complete_224
+    21300450: biomenace_complete_225
+    21300452: biomenace_complete_226
+    21300454: biomenace_complete_227
+    21300456: biomenace_complete_228
+    21300458: biomenace_complete_229
+    21300460: biomenace_complete_230
+    21300462: biomenace_complete_231
+    21300464: biomenace_complete_232
+    21300466: biomenace_complete_233
+    21300468: biomenace_complete_234
+    21300470: biomenace_complete_235
+    21300472: biomenace_complete_236
+    21300474: biomenace_complete_237
+    21300476: biomenace_complete_238
+    21300478: biomenace_complete_239
+    21300480: biomenace_complete_240
+    21300482: biomenace_complete_241
+    21300484: biomenace_complete_242
+    21300486: biomenace_complete_243
+    21300488: biomenace_complete_244
+    21300490: biomenace_complete_245
+    21300492: biomenace_complete_246
+    21300494: biomenace_complete_247
+    21300496: biomenace_complete_248
+    21300498: biomenace_complete_249
+    21300500: biomenace_complete_250
+    21300502: biomenace_complete_251
+    21300504: biomenace_complete_252
+    21300506: biomenace_complete_253
+    21300508: biomenace_complete_254
+    21300510: biomenace_complete_255
+    21300512: biomenace_complete_256
+    21300514: biomenace_complete_257
+    21300516: biomenace_complete_258
+    21300518: biomenace_complete_259
+    21300520: biomenace_complete_260
+    21300522: biomenace_complete_261
+    21300524: biomenace_complete_262
+    21300526: biomenace_complete_263
+    21300528: biomenace_complete_264
+    21300530: biomenace_complete_265
+    21300532: biomenace_complete_266
+    21300534: biomenace_complete_267
+    21300536: biomenace_complete_268
+    21300538: biomenace_complete_269
+    21300540: biomenace_complete_270
+    21300542: biomenace_complete_271
+    21300544: biomenace_complete_272
+    21300546: biomenace_complete_273
+    21300548: biomenace_complete_274
+    21300550: biomenace_complete_275
+    21300552: biomenace_complete_276
+    21300554: biomenace_complete_277
+    21300556: biomenace_complete_278
+    21300558: biomenace_complete_279
+    21300560: biomenace_complete_280
+    21300562: biomenace_complete_281
+    21300564: biomenace_complete_282
+    21300566: biomenace_complete_283
+    21300568: biomenace_complete_284
+    21300570: biomenace_complete_285
+    21300572: biomenace_complete_286
+    21300574: biomenace_complete_287
+    21300576: biomenace_complete_288
+    21300578: biomenace_complete_289
+    21300580: biomenace_complete_290
+    21300582: biomenace_complete_291
+    21300584: biomenace_complete_292
+    21300586: biomenace_complete_293
+    21300588: biomenace_complete_294
+    21300590: biomenace_complete_295
+    21300592: biomenace_complete_296
+    21300594: biomenace_complete_297
+    21300596: biomenace_complete_298
+    21300598: biomenace_complete_299
+    21300600: biomenace_complete_300
+    21300602: biomenace_complete_301
+    21300604: biomenace_complete_302
+    21300606: biomenace_complete_303
+    21300608: biomenace_complete_304
+    21300610: biomenace_complete_305
+    21300612: biomenace_complete_306
+    21300614: biomenace_complete_307
+    21300616: biomenace_complete_308
+    21300618: biomenace_complete_309
+    21300620: biomenace_complete_310
+    21300622: biomenace_complete_311
+    21300624: biomenace_complete_312
+    21300626: biomenace_complete_313
+    21300628: biomenace_complete_314
+    21300630: biomenace_complete_315
+    21300632: biomenace_complete_316
+    21300634: biomenace_complete_317
+    21300636: biomenace_complete_318
+    21300638: biomenace_complete_319
+    21300640: biomenace_complete_320
+    21300642: biomenace_complete_321
+    21300644: biomenace_complete_322
+    21300646: biomenace_complete_323
+    21300648: biomenace_complete_324
+    21300650: biomenace_complete_325
+    21300652: biomenace_complete_326
+    21300654: biomenace_complete_327
+    21300656: biomenace_complete_328
+    21300658: biomenace_complete_329
+    21300660: biomenace_complete_330
+    21300662: biomenace_complete_331
+    21300664: biomenace_complete_332
+    21300666: biomenace_complete_333
+    21300668: biomenace_complete_334
+    21300670: biomenace_complete_335
+    21300672: biomenace_complete_336
+    21300674: biomenace_complete_337
+    21300676: biomenace_complete_338
+    21300678: biomenace_complete_339
+    21300680: biomenace_complete_340
+    21300682: biomenace_complete_341
+    21300684: biomenace_complete_342
+    21300686: biomenace_complete_343
+    21300688: biomenace_complete_344
+    21300690: biomenace_complete_345
+    21300692: biomenace_complete_346
+    21300694: biomenace_complete_347
+    21300696: biomenace_complete_348
+    21300698: biomenace_complete_349
+    21300700: biomenace_complete_350
+    21300702: biomenace_complete_351
+    21300704: biomenace_complete_352
+    21300706: biomenace_complete_353
+    21300708: biomenace_complete_354
+    21300710: biomenace_complete_355
+    21300712: biomenace_complete_356
+    21300714: biomenace_complete_357
+    21300716: biomenace_complete_358
+    21300718: biomenace_complete_359
+    21300720: biomenace_complete_360
+    21300722: biomenace_complete_361
+    21300724: biomenace_complete_362
+    21300726: biomenace_complete_363
+    21300728: biomenace_complete_364
+    21300730: biomenace_complete_365
+    21300732: biomenace_complete_366
+    21300734: biomenace_complete_367
+    21300736: biomenace_complete_368
+    21300738: biomenace_complete_369
+    21300740: biomenace_complete_370
+    21300742: biomenace_complete_371
+    21300744: biomenace_complete_372
+    21300746: biomenace_complete_373
+    21300748: biomenace_complete_374
+    21300750: biomenace_complete_375
+    21300752: biomenace_complete_376
+    21300754: biomenace_complete_377
+    21300756: biomenace_complete_378
+    21300758: biomenace_complete_379
+    21300760: biomenace_complete_380
+    21300762: biomenace_complete_381
+    21300764: biomenace_complete_382
+    21300766: biomenace_complete_383
+    21300768: biomenace_complete_384
+    21300770: biomenace_complete_385
+    21300772: biomenace_complete_386
+    21300774: biomenace_complete_387
+    21300776: biomenace_complete_388
+    21300778: biomenace_complete_389
+    21300780: biomenace_complete_390
+    21300782: biomenace_complete_391
+    21300784: biomenace_complete_392
+    21300786: biomenace_complete_393
+    21300788: biomenace_complete_394
+    21300790: biomenace_complete_395
+    21300792: biomenace_complete_396
+    21300794: biomenace_complete_397
+    21300796: biomenace_complete_398
+    21300798: biomenace_complete_399
+    21300800: biomenace_complete_400
+    21300802: biomenace_complete_401
+    21300804: biomenace_complete_402
+    21300806: biomenace_complete_403
+    21300808: biomenace_complete_404
+    21300810: biomenace_complete_405
+    21300812: biomenace_complete_406
+    21300814: biomenace_complete_407
+    21300816: biomenace_complete_408
+    21300818: biomenace_complete_409
+    21300820: biomenace_complete_410
+    21300822: biomenace_complete_411
+    21300824: biomenace_complete_412
+    21300826: biomenace_complete_413
+    21300828: biomenace_complete_414
+    21300830: biomenace_complete_415
+    21300832: biomenace_complete_416
+    21300834: biomenace_complete_417
+    21300836: biomenace_complete_418
+    21300838: biomenace_complete_419
+    21300840: biomenace_complete_420
+    21300842: biomenace_complete_421
+    21300844: biomenace_complete_422
+    21300846: biomenace_complete_423
+    21300848: biomenace_complete_424
+  externalObjects: {}
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 1
+    enableMipMap: 0
     sRGBTexture: 1
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -27,14 +455,17 @@ TextureImporter:
   textureFormat: 1
   maxTextureSize: 2048
   textureSettings:
+    serializedVersion: 2
     filterMode: -1
     aniso: -1
     mipBias: -1
-    wrapMode: -1
-  nPOTScale: 1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 0
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -42,9 +473,9 @@ TextureImporter:
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
   alphaUsage: 1
-  alphaIsTransparency: 0
+  alphaIsTransparency: 1
   spriteTessellationDetail: -1
-  textureType: 0
+  textureType: 8
   textureShape: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
@@ -52,16 +483,6029 @@ TextureImporter:
   platformSettings:
   - buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
+    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: biomenace_complete_0
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1841
+        width: 35
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_1
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1839
+        width: 32
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_2
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1829
+        width: 94
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_3
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1786
+        width: 26
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_4
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1786
+        width: 26
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_5
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1786
+        width: 25
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_6
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1786
+        width: 28
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_7
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1786
+        width: 26
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_8
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1786
+        width: 30
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_9
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1786
+        width: 25
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_10
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1786
+        width: 28
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_11
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1786
+        width: 26
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_12
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1786
+        width: 30
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_13
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1786
+        width: 28
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_14
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1786
+        width: 25
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_15
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1786
+        width: 28
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_16
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1786
+        width: 25
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_17
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1786
+        width: 27
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_18
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1786
+        width: 25
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_19
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1786
+        width: 27
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_20
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1786
+        width: 24
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_21
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1786
+        width: 24
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_22
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1786
+        width: 24
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_23
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1786
+        width: 24
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_24
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1743
+        width: 31
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_25
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1743
+        width: 45
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_26
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1743
+        width: 31
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_27
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1743
+        width: 45
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_28
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1743
+        width: 30
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_29
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1743
+        width: 46
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_30
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1743
+        width: 30
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_31
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1743
+        width: 46
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_32
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1743
+        width: 32
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_33
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1767
+        width: 47
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_34
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1743
+        width: 37
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_35
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1743
+        width: 53
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_36
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1743
+        width: 37
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_37
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1743
+        width: 53
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_38
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1744
+        width: 30
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_39
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1757
+        width: 47
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_40
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1751
+        width: 16
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_41
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1728
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_42
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1728
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_43
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1728
+        width: 14
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_44
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1726
+        width: 10
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_45
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1726
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_46
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1726
+        width: 13
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_47
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1726
+        width: 16
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_48
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1726
+        width: 16
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_49
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1673
+        width: 31
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_50
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1674
+        width: 23
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_51
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1691
+        width: 19
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_52
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1696
+        width: 17
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_53
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1671
+        width: 20
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_54
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1671
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_55
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1684
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_56
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1686
+        width: 21
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_57
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1684
+        width: 29
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_58
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1673
+        width: 62
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_59
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1671
+        width: 76
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_60
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1671
+        width: 31
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_61
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1672
+        width: 31
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_62
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1675
+        width: 11
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_63
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1671
+        width: 15
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_64
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1671
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_65
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1671
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_66
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1671
+        width: 16
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_67
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1671
+        width: 15
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_68
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1671
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_69
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1671
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_70
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1671
+        width: 16
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_71
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1671
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_72
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1671
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_73
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1671
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_74
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1655
+        width: 14
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_75
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1653
+        width: 7
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_76
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1653
+        width: 7
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_77
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1655
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_78
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1655
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_79
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1652
+        width: 10
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_80
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1652
+        width: 15
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_81
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1652
+        width: 23
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_82
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1660
+        width: 16
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_83
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1652
+        width: 16
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_84
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1652
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_85
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1652
+        width: 14
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_86
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1652
+        width: 7
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_87
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1652
+        width: 7
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_88
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1652
+        width: 7
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_89
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1652
+        width: 7
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_90
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1652
+        width: 7
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_91
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1652
+        width: 10
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_92
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1652
+        width: 15
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_93
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1652
+        width: 15
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_94
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1652
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_95
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1652
+        width: 12
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_96
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1652
+        width: 8
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_97
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1652
+        width: 16
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_98
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1652
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_99
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1652
+        width: 14
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_100
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1652
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_101
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1652
+        width: 13
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_102
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1652
+        width: 16
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_103
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1652
+        width: 20
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_104
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1652
+        width: 15
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_105
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1652
+        width: 14
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_106
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1652
+        width: 14
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_107
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1652
+        width: 11
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_108
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1637
+        width: 16
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_109
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1635
+        width: 9
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_110
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1635
+        width: 9
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_111
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1637
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_112
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1637
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_113
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1634
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_114
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1635
+        width: 15
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_115
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1635
+        width: 23
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_116
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1643
+        width: 16
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_117
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1635
+        width: 16
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_118
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1635
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_119
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1634
+        width: 16
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_120
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1634
+        width: 16
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_121
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1634
+        width: 16
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_122
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1634
+        width: 12
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_123
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1634
+        width: 15
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_124
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1634
+        width: 15
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_125
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1634
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_126
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1634
+        width: 12
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_127
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1634
+        width: 8
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_128
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1634
+        width: 16
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_129
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1634
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_130
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1634
+        width: 14
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_131
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1634
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_132
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1634
+        width: 13
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_133
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1635
+        width: 15
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_134
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1634
+        width: 11
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_135
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1634
+        width: 16
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_136
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1607
+        width: 31
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_137
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1607
+        width: 29
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_138
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1607
+        width: 31
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_139
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1607
+        width: 29
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_140
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1607
+        width: 26
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_141
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1607
+        width: 26
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_142
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1607
+        width: 26
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_143
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1607
+        width: 26
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_144
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1580
+        width: 29
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_145
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1580
+        width: 31
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_146
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1580
+        width: 29
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_147
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1580
+        width: 31
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_148
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1580
+        width: 26
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_149
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1580
+        width: 26
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_150
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1536
+        width: 27
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_151
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1536
+        width: 27
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_152
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1536
+        width: 30
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_153
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1536
+        width: 31
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_154
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1536
+        width: 27
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_155
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1536
+        width: 27
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_156
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1536
+        width: 31
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_157
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1536
+        width: 31
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_158
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1536
+        width: 30
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_159
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1536
+        width: 27
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_160
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1536
+        width: 30
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_161
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1536
+        width: 27
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_162
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1493
+        width: 31
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_163
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1493
+        width: 32
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_164
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1493
+        width: 31
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_165
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1493
+        width: 32
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_166
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1493
+        width: 31
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_167
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1493
+        width: 32
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_168
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1493
+        width: 23
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_169
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1493
+        width: 22
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_170
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1493
+        width: 31
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_171
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1493
+        width: 32
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_172
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1493
+        width: 31
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_173
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1493
+        width: 32
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_174
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1493
+        width: 20
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_175
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1494
+        width: 20
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_176
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1494
+        width: 20
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_177
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1493
+        width: 20
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_178
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1493
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_179
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1493
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_180
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1445
+        width: 15
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_181
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1445
+        width: 15
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_182
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1445
+        width: 30
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_183
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1445
+        width: 30
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_184
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1445
+        width: 16
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_185
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1445
+        width: 16
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_186
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1445
+        width: 16
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_187
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1445
+        width: 16
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_188
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1410
+        width: 23
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_189
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1410
+        width: 22
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_190
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1410
+        width: 22
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_191
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1410
+        width: 22
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_192
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1410
+        width: 22
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_193
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1410
+        width: 22
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_194
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1410
+        width: 22
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_195
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1410
+        width: 20
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_196
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1410
+        width: 21
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_197
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1384
+        width: 24
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_198
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1384
+        width: 31
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_199
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1384
+        width: 24
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_200
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1384
+        width: 31
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_201
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1384
+        width: 40
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_202
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1394
+        width: 16
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_203
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1394
+        width: 16
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_204
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1384
+        width: 40
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_205
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1350
+        width: 22
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_206
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1355
+        width: 32
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_207
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1350
+        width: 22
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_208
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1350
+        width: 22
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_209
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1355
+        width: 32
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_210
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1350
+        width: 22
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_211
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1325
+        width: 22
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_212
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1325
+        width: 23
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_213
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1325
+        width: 22
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_214
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1325
+        width: 23
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_215
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1325
+        width: 22
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_216
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1325
+        width: 22
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_217
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1325
+        width: 23
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_218
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1325
+        width: 22
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_219
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1325
+        width: 23
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_220
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1325
+        width: 22
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_221
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1266
+        width: 53
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_222
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1266
+        width: 56
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_223
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1291
+        width: 16
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_224
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1266
+        width: 53
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_225
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1266
+        width: 56
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_226
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1253
+        width: 23
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_227
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1253
+        width: 19
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_228
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1253
+        width: 23
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_229
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1253
+        width: 19
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_230
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1253
+        width: 24
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_231
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1201
+        width: 40
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_232
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1201
+        width: 39
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_233
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1201
+        width: 39
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_234
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1225
+        width: 13
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_235
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1224
+        width: 14
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_236
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1201
+        width: 40
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_237
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1201
+        width: 39
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_238
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1201
+        width: 39
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_239
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1166
+        width: 31
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_240
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1166
+        width: 31
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_241
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1166
+        width: 31
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_242
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1167
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_243
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1177
+        width: 8
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_244
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1166
+        width: 13
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_245
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1175
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_246
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1166
+        width: 13
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_247
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1166
+        width: 28
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_248
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1149
+        width: 27
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_249
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1149
+        width: 27
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_250
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1149
+        width: 27
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_251
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1149
+        width: 27
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_252
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1113
+        width: 32
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_253
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1113
+        width: 32
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_254
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1113
+        width: 48
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_255
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1131
+        width: 16
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_256
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1113
+        width: 32
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_257
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1113
+        width: 32
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_258
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1113
+        width: 48
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_259
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1070
+        width: 29
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_260
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1070
+        width: 30
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_261
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1070
+        width: 17
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_262
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1070
+        width: 30
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_263
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1070
+        width: 17
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_264
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1037
+        width: 96
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_265
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1037
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_266
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1037
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_267
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1037
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_268
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1037
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_269
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1037
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_270
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1037
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_271
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 962
+        width: 76
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_272
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 962
+        width: 76
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_273
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 962
+        width: 85
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_274
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1020
+        width: 8
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_275
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1015
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_276
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1004
+        width: 15
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_277
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 906
+        width: 40
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_278
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 906
+        width: 62
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_279
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 903
+        width: 62
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_280
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 906
+        width: 40
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_281
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 906
+        width: 31
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_282
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 906
+        width: 31
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_283
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 865
+        width: 39
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_284
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 864
+        width: 39
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_285
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 864
+        width: 39
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_286
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 865
+        width: 39
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_287
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 864
+        width: 39
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_288
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 864
+        width: 39
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_289
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 860
+        width: 23
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_290
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 860
+        width: 47
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_291
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 804
+        width: 90
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_292
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 804
+        width: 107
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_293
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 804
+        width: 90
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_294
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 804
+        width: 107
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_295
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 778
+        width: 13
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_296
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 779
+        width: 13
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_297
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 778
+        width: 13
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_298
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 779
+        width: 14
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_299
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 779
+        width: 14
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_300
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 779
+        width: 13
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_301
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 778
+        width: 13
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_302
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 778
+        width: 13
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_303
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 784
+        width: 23
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_304
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 784
+        width: 24
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_305
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 776
+        width: 13
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_306
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 776
+        width: 13
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_307
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 776
+        width: 13
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_308
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 776
+        width: 14
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_309
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 776
+        width: 14
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_310
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 776
+        width: 13
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_311
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 776
+        width: 13
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_312
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 776
+        width: 13
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_313
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 758
+        width: 24
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_314
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 758
+        width: 24
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_315
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 758
+        width: 24
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_316
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 758
+        width: 24
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_317
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 733
+        width: 27
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_318
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 734
+        width: 27
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_319
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 733
+        width: 27
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_320
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 733
+        width: 27
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_321
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 691
+        width: 38
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_322
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 691
+        width: 40
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_323
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 691
+        width: 38
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_324
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 691
+        width: 38
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_325
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 691
+        width: 40
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_326
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 691
+        width: 38
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_327
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 691
+        width: 40
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_328
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 691
+        width: 56
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_329
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 691
+        width: 56
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_330
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 691
+        width: 40
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_331
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 640
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_332
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 640
+        width: 44
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_333
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 659
+        width: 16
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_334
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 659
+        width: 16
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_335
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 597
+        width: 40
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_336
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 597
+        width: 40
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_337
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 570
+        width: 40
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_338
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 570
+        width: 40
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_339
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 570
+        width: 40
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_340
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 570
+        width: 40
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_341
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 520
+        width: 56
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_342
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 520
+        width: 64
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_343
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 549
+        width: 16
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_344
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 520
+        width: 56
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_345
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 520
+        width: 64
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_346
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 429
+        width: 39
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_347
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 487
+        width: 20
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_348
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 429
+        width: 39
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_349
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 429
+        width: 39
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_350
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 487
+        width: 20
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_351
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 429
+        width: 39
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_352
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 483
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_353
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 483
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_354
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 481
+        width: 15
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_355
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 481
+        width: 15
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_356
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 468
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_357
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 467
+        width: 15
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_358
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 429
+        width: 41
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_359
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 429
+        width: 41
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_360
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 455
+        width: 7
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_361
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 457
+        width: 11
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_362
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 456
+        width: 11
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_363
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 441
+        width: 16
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_364
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 439
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_365
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 403
+        width: 24
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_366
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 406
+        width: 24
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_367
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 404
+        width: 24
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_368
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 364
+        width: 31
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_369
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 366
+        width: 31
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_370
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 364
+        width: 31
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_371
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 366
+        width: 31
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_372
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 364
+        width: 39
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_373
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 329
+        width: 29
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_374
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 329
+        width: 28
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_375
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 329
+        width: 29
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_376
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 329
+        width: 26
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_377
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 329
+        width: 28
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_378
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 329
+        width: 25
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_379
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 329
+        width: 28
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_380
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 329
+        width: 25
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_381
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 329
+        width: 38
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_382
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 278
+        width: 45
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_383
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 278
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_384
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 289
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_385
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 278
+        width: 45
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_386
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 278
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_387
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 244
+        width: 39
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_388
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 246
+        width: 39
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_389
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 209
+        width: 18
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_390
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 209
+        width: 18
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_391
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 209
+        width: 22
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_392
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 209
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_393
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 209
+        width: 18
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_394
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 209
+        width: 18
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_395
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 209
+        width: 22
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_396
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 209
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_397
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 212
+        width: 22
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_398
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 212
+        width: 22
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_399
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 165
+        width: 25
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_400
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 165
+        width: 29
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_401
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 165
+        width: 26
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_402
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 165
+        width: 30
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_403
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 165
+        width: 25
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_404
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 165
+        width: 29
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_405
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 165
+        width: 26
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_406
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 165
+        width: 30
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_407
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 184
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_408
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 60
+        width: 96
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_409
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 60
+        width: 96
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_410
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 100
+        width: 23
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_411
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 100
+        width: 23
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_412
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 60
+        width: 96
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_413
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1
+        width: 32
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_414
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1
+        width: 32
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_415
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 13
+        width: 24
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_416
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 14
+        width: 24
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_417
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1
+        width: 32
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_418
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1
+        width: 32
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_419
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1
+        width: 55
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_420
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1
+        width: 55
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_421
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1
+        width: 54
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_422
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1
+        width: 56
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_423
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1
+        width: 54
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: biomenace_complete_424
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1
+        width: 56
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
     outline: []
+    physicsShape: []
   spritePackingTag: 
   userData: 
   assetBundleName: 
